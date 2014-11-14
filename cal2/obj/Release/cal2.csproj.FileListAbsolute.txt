@@ -1,0 +1,12 @@
+C:\Users\Neil\Documents\Projects\cal2\cal2\bin\Release\cal2.dll
+C:\Users\Neil\Documents\Projects\cal2\cal2\bin\Release\cal2.pdb
+C:\Users\Neil\Documents\Projects\cal2\cal2\bin\Release\cal2.cal2.apk
+C:\Users\Neil\Documents\Projects\cal2\cal2\bin\Release\cal2.cal2-Signed.apk
+C:\Users\Neil\Documents\Projects\cal2\cal2\obj\Release\cal2.dll
+C:\Users\Neil\Documents\Projects\cal2\cal2\obj\Release\cal2.pdb
+C:\Users\Neil\Documents\Projects\cal2\cal2\obj\Release\android\bin\cal2.cal2.apk
+C:\Users\Neil\Documents\Projects\cal2\cal2\obj\Release\res\layout\main.xml
+C:\Users\Neil\Documents\Projects\cal2\cal2\obj\Release\res\values\strings.xml
+C:\Users\Neil\Documents\Projects\cal2\cal2\obj\Release\res\drawable\icon.png
+C:\Users\Neil\Documents\Projects\cal2\cal2\obj\Release\R.cs.flag
+C:\Users\Neil\Documents\Projects\cal2\cal2\obj\Release\uploadflags.txt
